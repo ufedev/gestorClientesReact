@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Negri (Actualizado)",
+      "empresa": "Gatitos Caninos",
+      "email": "gatos@caninos.com",
+      "telefono": "",
+      "nota": "Miau Guau",
+      "id": 4
+    },
+    {
+      "nombre": "Sacha",
+      "empresa": "Ufedev",
+      "email": "Peronio@peronio.com",
+      "telefono": 564465465,
+      "nota": "Holis",
+      "id": 5
+    }
+  ]
+}
